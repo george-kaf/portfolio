@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Workshop Helper",
+    "thumbnail": "projects/bikeztube-1.png",
+    "extraImage": "projects/bikeztube-2.png",
+    "description": "Customer managing app that performs CRUD operation. Keeps history of customers and services that are also editable.",
+    "skills": ["Python", "Bootstrap", "SQLite3"],
+    "source": "https://github.com/george-kaf/workshop_helper.git"
+  },
+  {
+    "title": "Email template",
+    "thumbnail": "projects/socials-1.png",
+    "extraImage": "projects/socials-2.png",
+    "description": "Responsive email template for social media links of the business. Created using best pracices for email clients.",
+    "skills": ["HTML", "CSS", "Email Template"],
+    "source": "https://github.com/george-kaf/email_template.git"
+  },
+  {
+    "title": "Winelist",
+    "thumbnail": "projects/winelist-1.png",
+    "extraImage": "projects/winelist-2.png",
+    "description": "Stock tracking app to record wine sales by glass or bottle and create sale graphs based on your records.",
+    "skills": ["Python", "Bootstrap", "Pandas", "Numpy"],
+    "source": "https://github.com/george-kaf/winelist.git"
+  }
+]

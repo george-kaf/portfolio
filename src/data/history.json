@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Software Developer",
+    "organisation": "Bikeztube",
+    "startDate": "Aug, 2014",
+    "endDate": "Present",
+    "experiences": ["Design And Develop CRM App Using Python", "Create And Maintain Website"],
+    "imageSrc": "history/bikeztube.png"
+  },
+  {
+    "role": "Web Developer",
+    "organisation": "Phyllo Bakehouse",
+    "startDate": "Apr, 2022",
+    "endDate": "October, 2022",
+    "experiences": ["Design Shop's Website", "Assist In Branding And Identity"],
+    "imageSrc": "history/phyllo.png"
+  }
+]
